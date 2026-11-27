@@ -1,0 +1,7 @@
+How to run:
+1. Open server.js and fill in YOUR 4 DB details at the top (host, user, password, database)
+   (same TiDB Cloud details you used in the CRUD project)
+2. Open a terminal in this folder (mealdb-db)
+3. node server.js     (run "npm install" first only if node_modules is missing)
+4. Open http://localhost:3000 in the browser
+You should see: Database connected, table "meals" is ready
